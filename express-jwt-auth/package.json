@@ -1,0 +1,19 @@
+{
+  "name": "express-jwt-auth",
+  "version": "1.0.0",
+  "description": "Xây dựng dự án với Express",
+  "license": "ISC",
+  "author": "THANGNS",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.7.4"
+  }
+}
